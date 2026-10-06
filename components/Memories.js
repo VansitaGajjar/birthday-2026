@@ -40,7 +40,7 @@ const memories = [
   {
     number: "02",
     title: "The Days I Couldn't Remember",
-    image: "/images/memory-02.png",
+    image: "/images/memory-2.png",
     paragraphs: [
       <>
         When I was hospitalized with jaundice for 11 days, I barely
