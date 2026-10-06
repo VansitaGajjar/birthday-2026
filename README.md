@@ -1,36 +1,50 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Birthday Website
 
-## Getting Started
+A personalized, romantic birthday website created with Next.js to celebrate someone special.
 
-First, run the development server:
+The website includes personal messages, memories, photos, interactive letters, a surprise section, and background music — all designed with a soft, elegant, mobile-first experience.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Features
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+- Romantic birthday landing page
+- Personalized birthday message
+- Memories section with real photos and stories
+- Photo gallery with Polaroid-style cards
+- "Reasons Why I Love You" section
+- Funny "Reasons Why I Hate You" section
+- Personalized birthday letter
+- Interactive "Open When..." messages
+- Interactive surprise section
+- Background birthday music with play/pause control
+- Responsive design for mobile, tablet, and desktop
+- Soft romantic color palette and animations
+- Static website suitable for Vercel deployment
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+## Tech Stack
 
-To learn more about Next.js, take a look at the following resources:
+### Frontend
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- Next.js
+- React
+- JavaScript
+- HTML5
+- CSS3
+- Tailwind CSS
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+### Tools
 
-## Deploy on Vercel
+- VS Code
+- Git
+- GitHub
+- Vercel
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+---
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## Commands
+
+- npm i
+- npm run dev
