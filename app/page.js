@@ -21,7 +21,7 @@ export default function Home() {
 
       <Reasons />
 
-      <ReasonsHate />
+      {/* <ReasonsHate /> */}
 
       <OpenWhen />
 
