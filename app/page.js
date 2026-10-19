@@ -6,7 +6,7 @@ import Reasons from "@/components/Reasons";
 import OpenWhen from "@/components/OpenWhen";
 import Surprise from "@/components/Surprise";
 import MusicPlayer from "@/components/MusicPlayer";
-// import ReasonsHate from "@/components/ReasonsHate";
+import ReasonsHate from "@/components/ReasonsHate";
 
 export default function Home() {
   return (
@@ -21,7 +21,7 @@ export default function Home() {
 
       <Reasons />
 
-      {/* <ReasonsHate /> */}
+      // {/* <ReasonsHate /> */}
 
       <OpenWhen />
 
